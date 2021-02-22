@@ -1,0 +1,2 @@
+# GrayLog
+Graylog Content packs
